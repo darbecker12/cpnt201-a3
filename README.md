@@ -1,6 +1,6 @@
 # cpnt201-a3
 
-# The Tortoise and the Hare
+# The Hare and the Tortoise
 
 One day the Hare laughed at the short feet and slow speed of the Tortoise. The Tortoise replied:
 
