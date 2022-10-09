@@ -1,5 +1,7 @@
 # cpnt201-a3
 
+# The Tortoise and the Hare
+
 One day the Hare laughed at the short feet and slow speed of the Tortoise. The Tortoise replied:
 
 "You may be as fast as the wind, but I will beat you in a race!"
@@ -10,6 +12,7 @@ The day for the race came, and the Tortoise and Hare started together.
 
 The Tortoise never stopped for a moment, walking slowly but steadily, right to the end of the course. The Hare ran fast and stopped to lie down for a rest. But he fell fast asleep. Eventually, he woke up and ran as fast as he could. But when he reached the end, he saw the Tortoise there already, sleeping comfortably after her effort.
 
+A little too easy for the Tortoise.
 This is the end of the Story
 
 Testing a new line
