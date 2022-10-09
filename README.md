@@ -14,7 +14,7 @@ The Tortoise never stopped for a moment, walking slowly but steadily, right to t
 
 
 The Hare felt embarrassed knowing the Tortoise made it look so easy.
-A little too easy for the Tortoise.
+It was a little too easy for the Tortoise.
 
 This is the end of the Story
 
